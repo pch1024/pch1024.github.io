@@ -15,6 +15,9 @@
 <!-- 外链样式表和脚本 -->
 <link rel="stylesheet" type="text/css" href = "	">
 <script type="text/javascript" 		    src = "  "></script>
+<style type="text/css">
+	body{background-color: #00f;}
+</style>
 </head>
 <body>
 
